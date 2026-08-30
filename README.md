@@ -1,6 +1,6 @@
-# Salesforce Business and Financial Assessment
+# Salesforce Business Assessment: Strategy, Financials, and Operations
 
-A six-page company assessment connecting competitive strategy, financial performance, marketing, operations, and analytics opportunities.
+A six-page company assessment explaining how Salesforce's strategy, financial performance, marketing model, operations, and analytics opportunities connect.
 
 ## Scope
 
