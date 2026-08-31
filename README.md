@@ -1,8 +1,8 @@
 # Salesforce Business Assessment: Strategy, Financials, and Operations
 
-A six-page company assessment explaining how Salesforce's strategy, financial performance, marketing model, operations, and analytics opportunities connect.
+I wrote this six-page company assessment to connect Salesforce's strategy, financial performance, marketing model, operations, and analytics opportunities. My goal was to explain how the pieces reinforce one another instead of summarizing each business function in isolation.
 
-## Scope
+## What I analyzed
 
 - Customer 360 and the subscription-based SaaS model
 - SWOT and Porter's Five Forces
@@ -13,7 +13,7 @@ A six-page company assessment explaining how Salesforce's strategy, financial pe
 
 ## Key analytical perspective
 
-The report treats financial statements as evidence of strategy rather than isolated accounting outputs. It connects recurring revenue and cash generation to product investment, platform integration, enterprise retention, and cost discipline.
+I treated the financial statements as evidence of strategy rather than isolated accounting outputs. I connected recurring revenue and cash generation to product investment, platform integration, enterprise retention, and cost discipline.
 
 ## Report
 
@@ -25,7 +25,7 @@ The analysis uses Salesforce fiscal-year 2024 and 2025 Form 10-K filings and the
 
 ## Repository boundary
 
-This repository contains the student's final assessment only. Course prompts, templates, lecture material, and third-party copies of regulatory filings are excluded.
+I included only my final assessment and source list. I excluded course prompts, templates, lecture material, and third-party copies of regulatory filings.
 
 ## Methods
 
