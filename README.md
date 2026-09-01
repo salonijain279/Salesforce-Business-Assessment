@@ -25,7 +25,7 @@ The analysis uses Salesforce fiscal-year 2024 and 2025 Form 10-K filings and the
 
 ## Repository boundary
 
-I included only my final assessment and source list. I excluded course prompts, templates, lecture material, and third-party copies of regulatory filings.
+The repository contains the final assessment and source list. Third-party copies of regulatory filings are not redistributed.
 
 ## Methods
 
