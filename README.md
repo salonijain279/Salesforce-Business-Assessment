@@ -1,6 +1,16 @@
 # Salesforce Business Assessment: Strategy, Financials, and Operations
 
-I wrote this six-page company assessment to connect Salesforce's strategy, financial performance, marketing model, operations, and analytics opportunities. My goal was to explain how the pieces reinforce one another instead of summarizing each business function in isolation.
+A six-page company assessment tying Salesforce's strategy, financials, marketing, and operations
+into one argument instead of four separate summaries — using their actual FY2024/FY2025 10-K
+filings, not secondary sources.
+
+## Headline numbers
+
+- **$37.9B** record FY2025 revenue — even as growth moderated on longer enterprise sales cycles
+- **$13.1B** operating cash flow, consistently outpacing net income — a earnings-quality signal, not just a growth one
+- **$20.6B** in deferred revenue — a liability on paper, but forward visibility into cash Salesforce already has commitments for
+- Sales & marketing spend runs ~**1/3 of total revenue** — the real cost of defending share against Microsoft, Oracle, and SAP
+- Recommended fix for that cost: an AI-driven lead-scoring model plus a churn "warning dashboard" that flags disengaged accounts before they leave, not after
 
 ## What I analyzed
 
