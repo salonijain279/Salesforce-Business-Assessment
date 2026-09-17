@@ -14,6 +14,16 @@ filings, not secondary sources.
 
 ## What was analyzed
 
+```mermaid
+flowchart LR
+    A["10-K filings FY2024/FY2025"] --> B[Strategy: SWOT & Porter's Five Forces]
+    A --> C[Financials: revenue, cash flow, deferred revenue]
+    B --> D[Strategic financial linkage]
+    C --> D
+    D --> E[5C/4P marketing & operations]
+    E --> F[Analytics opportunity recommendations]
+```
+
 - Customer 360 and the subscription-based SaaS model
 - SWOT and Porter's Five Forces
 - Revenue, operating cash flow, R&D, balance-sheet, and deferred-revenue trends
