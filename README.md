@@ -7,12 +7,12 @@ filings, not secondary sources.
 ## Headline numbers
 
 - **$37.9B** record FY2025 revenue — even as growth moderated on longer enterprise sales cycles
-- **$13.1B** operating cash flow, consistently outpacing net income — a earnings-quality signal, not just a growth one
+- **$13.1B** operating cash flow, consistently outpacing net income — an earnings-quality signal, not just a growth one
 - **$20.6B** in deferred revenue — a liability on paper, but forward visibility into cash Salesforce already has commitments for
 - Sales & marketing spend runs ~**1/3 of total revenue** — the real cost of defending share against Microsoft, Oracle, and SAP
 - Recommended fix for that cost: an AI-driven lead-scoring model plus a churn "warning dashboard" that flags disengaged accounts before they leave, not after
 
-## What I analyzed
+## What was analyzed
 
 - Customer 360 and the subscription-based SaaS model
 - SWOT and Porter's Five Forces
@@ -23,7 +23,7 @@ filings, not secondary sources.
 
 ## Key analytical perspective
 
-I treated the financial statements as evidence of strategy rather than isolated accounting outputs. I connected recurring revenue and cash generation to product investment, platform integration, enterprise retention, and cost discipline.
+The financial statements are treated as evidence of strategy rather than isolated accounting outputs, connecting recurring revenue and cash generation to product investment, platform integration, enterprise retention, and cost discipline.
 
 ## Report
 
